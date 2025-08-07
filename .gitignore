@@ -1,0 +1,21 @@
+# Ignore backup files
+*~ 
+*.bak
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore generated files
+*.drl
+*.gbr
+*.zip
+*.tar.gz
+
+# Ignore local configuration files
+*.kicad_pcb-bak
+*.kicad_sch-bak
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
