@@ -1,4 +1,4 @@
-26042195380782270
+26047459210515024
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -27,6 +27,27 @@ E28_Amplifier_Connector
 0
 20
 20
+BMW_Cluster_Connectors
+ConnectorIV_Early
+Early model cluster connector from nexus to tachometer and speedometer
+
+0
+16
+16
+BMW_Cluster_Connectors
+ConnectorV_Early
+Connector V for early model cluster, connects nexus board to SI board. 
+
+0
+15
+15
+BMW_Cluster_Connectors
+Gauge_fuel_temp
+connector for the fuel gauge and the temperature gauge
+
+0
+5
+3
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "BMW_Cluster_Connectors")(type "KiCad")(uri "${KIPRJMOD}/Resources/BMW_Cluster_Connectors.pretty")(options "")(descr ""))
+)

@@ -9391,7 +9391,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "BMW_Cluster_Connectors:ConnectorIV_Early"
 			(at 101.6 116.84 0)
 			(effects
 				(font
@@ -9635,7 +9635,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "BMW_Cluster_Connectors:Gauge_fuel_temp"
 			(at 127 207.01 0)
 			(effects
 				(font
@@ -10515,7 +10515,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "BMW_Cluster_Connectors:ConnectorV_Early"
 			(at 29.21 121.92 0)
 			(effects
 				(font
@@ -11982,7 +11982,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "BMW_Cluster_Connectors:Gauge_fuel_temp"
 			(at 227.33 205.74 0)
 			(effects
 				(font
