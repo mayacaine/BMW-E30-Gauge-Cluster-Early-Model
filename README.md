@@ -3,3 +3,6 @@ The goal for this project is to reverse engineer every PCB in the gauge cluster 
 
 ## Fabian Gmeiner's SI board project:
 https://github.com/FabianGmeiner/BMW_E30_SI_Board
+
+# Late Model Clusters:
+If you have a late model cluster and need parts for that, check out the progress of the late model project here: https://github.com/Ansel84/BMW-E30-Gauge-Cluster-Late-Model
