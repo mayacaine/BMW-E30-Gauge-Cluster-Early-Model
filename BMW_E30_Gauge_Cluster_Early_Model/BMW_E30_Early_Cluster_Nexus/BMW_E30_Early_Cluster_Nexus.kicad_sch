@@ -9755,7 +9755,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "600c0bd5-3b96-407f-b779-a46ce700579f")
 		(property "Reference" "R4"
@@ -9767,7 +9767,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "51R"
+		(property "Value" "100R"
 			(at 325.12 123.1899 0)
 			(effects
 				(font
@@ -9776,7 +9776,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0516_L15.5mm_D5.0mm_P20.32mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal"
 			(at 320.802 121.92 90)
 			(effects
 				(font
